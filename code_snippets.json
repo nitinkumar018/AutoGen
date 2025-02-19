@@ -1,0 +1,4 @@
+[
+    {"query": "Sort a list in Python", "code": "sorted_list = sorted(my_list)"},
+    {"query": "Find the largest number in a list", "code": "max_value = max(my_list)"}
+]
