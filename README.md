@@ -1,4 +1,4 @@
-#  Project: Microsoft Autogen Multi-Agent System with Local LLM & RAG
+#  Project: Microsoft Autogen Multi-Agent System with Local LLM & RAG and deploy it using flask
 ## This project will demonstrate how to set up Autogen agents, integrate a local Hugging Face LLM, implement external function calls, and create RAG-based retrieval agents for QA & code suggestions.
 # We have to create a small working demo using Microsoft Autogen, a framework for multi-agent AI systems. Here’s a breakdown of what you need to do:
 # 1. Use a Local LLM from Hugging Face: Instead of using cloud-based AI models, we need to integrate an open-source LLM (like Llama 2, Mistral, or Falcon) from Hugging Face.
