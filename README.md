@@ -11,4 +11,4 @@
 # 4. Implement RAG (Retrieval-Augmented Generation) for QA & Code
 # RetrieveAgents should fetch relevant information for:
 ## QA (Question Answering): The model should search a knowledge base to answer user questions.
-## Code: The model should retrieve relevant code snippets when asked for programming-related help.
+## Code: The model should retrieve relevant code snippets when asked for programming-related help. 
